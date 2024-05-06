@@ -1,0 +1,28 @@
+.main-bg{
+    background-color: #162131 !important;
+}
+
+input{
+    background-color: #1F2937 !important;
+    color:#303030 !important;
+    border-radius: 3px !important;
+}
+
+label{
+    color: #E5E7EB !important;
+}
+
+#main-layout{
+    display: flex;
+    justify-content: space-around;
+}
+
+#main-layout .sidebar{
+    width:50%;
+    margin-right: 50px;
+}
+
+.navbar{
+    border-bottom: 1px solid #33415566;
+    margin-bottom: 50px;
+}
